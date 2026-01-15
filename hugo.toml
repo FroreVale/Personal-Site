@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params.profileMode]
 enabled = true
 title = "hi, i'm daniel"
-subtitle = ":)"
+subtitle = "I love coding and building websites."
 
 
 [[params.socialIcons]]
@@ -19,7 +19,7 @@ url = "https://github.com/FroreVale"
 
 [[params.socialIcons]]
 name = "Email"
-url = "danielraj1159@gmail.com"
+url = "mailto:danielraj1159@gmail.com"
 
 [caches]
   [caches.images]
